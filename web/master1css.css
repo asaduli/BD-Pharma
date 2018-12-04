@@ -1,0 +1,79 @@
+
+.h1{
+    color:#00ff33;
+    background-color:gray;
+        
+}
+
+#div1{
+ height:30px;
+ width:1280px;
+ background-color:#cccccc;
+ 
+}
+body{
+ margin: 0;
+}
+.p1{
+    font-family:Shrikhand;
+    text-align: left;
+    text-align: inherit;
+    margin: 0;
+    color: #000033;
+    font-weight: bold;
+    padding-left: 10px;
+  font-style: italic;
+    
+}
+
+.margin{
+    margin: 0;
+}
+.i1{
+    padding-left:1000px;
+    padding-top:5px;
+    height: 20px;
+    width: 42px;
+}
+.div2{
+    height: 70px;
+    width: 1280px;
+
+}
+.i2{
+    padding-left: 10px;
+    padding-top: 15px;
+    height: 40px;
+    width: 60px;
+}
+.t2{
+    
+    font-family:Alfa Slab One;
+    font-style: italic;
+    font-weight: bold;
+    color: #330066;
+     text-decoration:none;
+    display: inline;
+    padding-top: 10px;
+    font-size: 50px;
+   
+}
+.f1{
+    display: inline;
+    padding-left: 500px;
+    margin-right: 200px;
+ 
+}
+.sbox{
+    background-color: #cccccc;
+    width: 200px;
+     border-radius: 12px; 
+     padding-bottom: 7px;
+     margin-bottom: 5px;
+     
+}
+.submit1{
+    font-weight: bold;
+    background-color: greenyellow;
+}
+/*css for login*/

@@ -1,0 +1,23 @@
+.log{
+   
+    height: 500px;
+    width: 800px;
+    outline: 3px dashed  #990099 ;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 300px;
+    margin-bottom: 30px;  
+    background-color:#336699;
+}
+.head{
+    color: white;
+    width: 150px;
+    background-color:steelblue;
+    font-family: Monoton;
+    font-size: large;
+    font-style: italic;
+}
+.input{
+    width: 310px;
+    text-align: center;
+}

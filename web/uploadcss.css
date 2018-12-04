@@ -1,0 +1,24 @@
+.ddd{
+    height:70px;
+    width:650px;
+    border:2px solid black;
+    border-style: dashed;
+    background-color: #cccccc;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.pp{
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    color:darkgreen;
+    font-weight: bold;
+}
+.dd2{
+    height: 70px;
+    width: 600px;
+    margin-top: 150px;
+    margin-left: 300px;
+    background-color: gold;
+   
+}

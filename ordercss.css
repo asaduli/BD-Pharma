@@ -1,0 +1,40 @@
+<body>
+{
+ background-color : #e8f3f8;
+h1
+{
+text-align:center;
+font-size:50px;
+}
+form
+{
+	margin:20px; auto;
+	width:30px;
+	color:blue;
+}
+input
+{
+	padding:10px;
+	font-size:inherit;
+}
+input[type="text"]{
+	display:block;margin-bottom:10px;
+	width:1oo%;
+	border:2px; solid:blue;
+}
+input[type="submit"]{
+	width:344px;
+	height:20px;
+	border:none;
+	background:blue;
+	color:white;
+}
+input[type="button"]{
+	width:344px;
+	height:2opx;
+	border:none;
+	background:blue;
+	color:white;
+}
+	
+</body>	}

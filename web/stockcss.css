@@ -1,0 +1,30 @@
+table{
+    border-collapse: collapse;
+}
+table,thead,td{
+    border:2px solid #000033;
+}
+thead{
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: maroon;
+}
+td{
+    height: 30px;
+}
+.hom{
+
+    background-color:mediumslateblue;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+     padding-bottom: 5px;
+  padding-top: 1px;
+      color:lawngreen;
+
+     
+    
+}
